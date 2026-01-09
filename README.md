@@ -17,6 +17,7 @@ Actuellement en formation intensive à Ada Tech School,je travaille sur des proj
 
 ### Mes projets
 - ✅"Oui Cheffe" [Repo](https://github.com/Xinzhu99/Oui_Cheffe)
+- ✅"Adaverse" [Repo](https://github.com/Xinzhu99/Pro-folio-V2/tree/bonus) / [Demo](https://pro-folio-v2.vercel.app/)
 - ✅"Pro-folio" [Repo](https://github.com/Xinzhu99/Pro-folio) / [Demo](https://profolio-sigma-five.vercel.app/)
 - ✅"Panam Event" [Repo](https://github.com/Xinzhu99/Panam-Events) / [Demo](https://panam-events.vercel.app/)
 - ✅"Adaopte" [Repo](https://github.com/Xinzhu99/Adaopte) / [Demo](https://xinzhu.fr/adaopte/)
