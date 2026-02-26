@@ -2,8 +2,6 @@
 
 Après 7 ans d’expérience en business development et gestion de partenariats internationaux, j’ai choisi de me réorienter vers le développement informatique.
 
-Actuellement en formation intensive à Ada Tech School,je travaille sur des projets web et mobiles full-stack. Je passe mon RNCP niveau 6 et je suis à la recherche d'une alternance (contrat pro) d'un an pour obtenir le niveau bac+3. Je suis disponible dès janvier 2026 et le rythme de mon alternance est de 4 jours en entreprise / 1 jour à l'école.
-
 ### Mes hard skills
 - Dev front-end : HTML/CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Swift & Swift UI
 - Dev back-end : Node.js, Express, PostgreSQL, ORM (Drizzle)
