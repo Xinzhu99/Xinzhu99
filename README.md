@@ -4,7 +4,7 @@ Après 7 ans d’expérience en business development et gestion de partenariats 
 
 ### Mes hard skills
 - Dev front-end : HTML/CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Swift & Swift UI
-- Dev back-end : Node.js, Express, PostgreSQL, ORM (Drizzle)
+- Dev back-end : Node.js, Express, PostgreSQL, ORM, C#, .Net
 - Trilingue (français / anglais / chinois)
 
 ### ✨ Ce qui me caractérise : 
